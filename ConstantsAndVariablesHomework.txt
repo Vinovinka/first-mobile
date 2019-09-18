@@ -1,0 +1,7 @@
+//Constants and Variables homework
+
+let studentFirstName = "Jonh"
+let studentLastName = "Smith"
+let studentAge = 20, studentHeight = 190, studentWeight = 85
+
+print("This is \(studentFirstName) \(studentLastName). He is \(studentAge). His height is \(studentHeight). And his weight is \(studentWeight).")
